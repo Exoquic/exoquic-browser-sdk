@@ -1,6 +1,6 @@
 {
   "name": "@exoquic/browser-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Exoquic browser SDK for realtime data",
   "main": "index.js",
   "types": "dist/index.d.ts",

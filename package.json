@@ -1,6 +1,6 @@
 {
   "name": "@exoquic/browser-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Exoquic browser SDK for realtime data",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -29,7 +29,7 @@
     "jwt-decode": "^4.0.0"
   },
   "peerDependencies": {
-    "typescript": "^4.0.0"
+    "typescript": "^5"
   },
   "files": [
     "dist"
